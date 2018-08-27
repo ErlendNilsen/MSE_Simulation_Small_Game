@@ -2,7 +2,6 @@
 
 ### SETTING WD AND LOADING LIBRARIES;
 
-setwd("C:/Users/erlend.nilsen/OneDrive - NINA/Prosjekter/Arbeidsbord/Ryper/Lagopus MSE/MSE_RFF")
 library(MSEtools) # devtools::install_git("https://github.com/ErlendNilsen/MSEtools")
 library(tidyverse)
 library(MDPtoolbox)
